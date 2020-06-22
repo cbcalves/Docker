@@ -9,3 +9,6 @@ Depois de rodar o build.sh e executar pela primeira vez o steam.sh basta escreve
 ou no caso do wine.sh:
 
     docker start mywine -ia
+
+Com algumas poucas modifições mas inspirado neste repositório:
+https://github.com/tianon/dockerfiles
